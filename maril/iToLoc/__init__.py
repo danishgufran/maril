@@ -1,0 +1,1 @@
+from .iToLoc import fingerprint_transformer
